@@ -3,9 +3,7 @@ This manifesto was created to break down what it means to be an IT-Consultant wo
 
 FrontEdge IT’s core business is being absolute experts within the broad field of software development, we value passion for self-improvement and the ever-burning flame of curiosity for new Technology. An IT consultant at FrontEdge should always aim to reach a higher understanding when it comes to software development (Dev) and its operations (Ops).
 
-We are Craftsmen, proud of our craft which we fine-tune to perfection. We help our fellow colleagues at FrontEdge to become stronger, more competent programmers, by sharing learning.
-
-It’s essential to keep improving, the greatest reward for us is not monetary, but rather gaining a greater knowledge That’s why we expect all people at FrontEdge to attend our knowledge-sharing events and after-works, which is mostly after working hours, with no other salary than increased knowledge and free food. Of course, as top-tier programmers we will earn our fair share of money, and all time and effort spent gaining, sharing and improving will not go unrewarded.
+We are Craftsmen, proud of our craft which we fine-tune to perfection. We help our fellow colleagues at FrontEdge to become stronger, more competent programmers, by sharing our knowledge amongst eachother. 
 
 Rather than asking – “what’s in it for me”, we focus on “how can I help”. With that attitude, great possibilities, responsibilities and opportunities will follow automatically, or if you prefer automagically.  
 
